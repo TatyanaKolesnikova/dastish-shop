@@ -6,6 +6,7 @@ $(document).ready(function(){
 
   $('.slide').gallery({
     flexible: true,
+    infinite: true,
     autoRotation: 3000
   });
 
